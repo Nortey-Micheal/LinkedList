@@ -1,0 +1,14 @@
+{
+    "name": "LinkedList",
+    "exports": {
+        ".": {
+            "browser": {
+                "default": "index.js"
+            }
+        },
+        "LinkedList": {
+            "import": "./index.js",
+            "require": "./index.js"
+        } 
+    }
+}
